@@ -73,15 +73,25 @@ ResNet50, ResNet101, ResNet152, ResNet50V2, ResNet101V2 and ResNet152V2 all of t
 # Required Parameters
 
 dataset = "UCF11_updated_mpg/"
+
 dataset2 = "dataset/"
+
 train_path = "training_set/"
+
 test_path = "testing_set/"
+
 no_of_frames = 1650
+
 epochs = 20
+
 batch_size = 32
+
 n_classes = 11
+
 optimizer = "Adam"
+
 loss_metric = "categorical_crossentropy"
+
 last_layer_activation_function = "softmax"
 
 
