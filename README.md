@@ -10,7 +10,7 @@ In the preprocessing phase I used a different technique which extracted exactly 
 meaning 1,650 x 11 = 18,150 frames or you can say images in whole dataset
 
 You can download the dataset from my kaggle profile:
-	[https://www.kaggle.com/oetjunhbxu/video-classification-ucf11]
+	[https://www.kaggle.com/ashuguptahere/video-classification-ucf11]
 
 # About Dataset
 
