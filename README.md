@@ -16,7 +16,7 @@ You can download the dataset from my kaggle profile:
 
 UCF11 folder: (where original dataset is located)
 
-~Aroung 150 videos in each category
+~Around 150 videos in each category
 
 ~1,600 total videos in UCF101 folder
 
